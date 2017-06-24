@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Nice Trip</string>
+    <string name="campos_vazio">Preencha os campos</string>
+    <string name="title_activity_nova_viagem">NovaViagem</string>
+    <string name="title_activity_gasto_viagem">GastoViagem</string>
+    <string name="selecione">Selecione</string>
+    <string-array name="categoria_gasto">
+        <item>Alimentação</item>
+        <item>Combustivel</item>
+        <item>Transporte</item>
+        <item>Hospedagem</item>
+        <item>Outros</item>
+    </string-array>
+</resources>
